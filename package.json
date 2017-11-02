@@ -11,7 +11,10 @@
     "url": "git+https://github.com/redpeds/InternetBanking.git"
   },
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1",
+    "body-parser": "^1.18.2",
+    "nodemon": "^1.12.1"
   },
   "author": "",
   "license": "ISC",
